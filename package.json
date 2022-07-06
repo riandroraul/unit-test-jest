@@ -1,0 +1,14 @@
+{
+    "name": "nodejs-unit-test",
+    "version": "1.0.0",
+    "description": "belajar unit test jest",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "riandroraul",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^28.1.2"
+    }
+}
