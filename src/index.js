@@ -2,4 +2,8 @@ function sum(a, b) {
     return a + b;
 }
 
-module.exports = { sum }
+const halo = (nama, umur) => {
+    return `halo ${nama} umur saya ${umur}`
+}
+
+module.exports = { halo, sum }
